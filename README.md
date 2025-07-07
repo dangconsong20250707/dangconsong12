@@ -19,4 +19,4 @@
 
 每个视频都有更新标签，如“今日更新”、“本周热播”等，帮助您轻松找到最热门的内容。我们的目标是通过不断优化，提供最佳的观影体验，确保您的每一次访问都能找到最适合的资源。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/dangconsong20250707/dangconsong12 ）</span>
